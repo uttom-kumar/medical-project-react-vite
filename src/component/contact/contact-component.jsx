@@ -32,8 +32,8 @@ const ContactComponent = () => {
                                     </div>
                                 </div>
                                 <div className="col-xl-4 col-lg-4 col-md-12 col-sm-12 col-12 text-center">
-                                    <button type="submit" className="btn">
-                                        Contact us{" "}
+                                    <button type="submit" className="btn btn-primary">
+                                        Contact us
                                         <i className="fa-solid fa-circle-arrow-right ms-2 text-light"/>
                                     </button>
                                 </div>
